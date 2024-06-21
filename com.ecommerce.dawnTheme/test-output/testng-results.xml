@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-16T19:56:54 IST" name="Default suite" finished-at="2024-06-16T19:57:50 IST" duration-ms="55706">
+    <groups>
+    </groups>
+    <test started-at="2024-06-16T19:56:54 IST" name="Default test" finished-at="2024-06-16T19:57:50 IST" duration-ms="55706">
+      <class name="com.ecommerce.dawnTheme.plpTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:56:54 IST" name="beforeClass" finished-at="2024-06-16T19:56:56 IST" duration-ms="1838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:56:56 IST" name="beforeMethod" finished-at="2024-06-16T19:56:57 IST" duration-ms="1009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="collectionHeading()[pri:1, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:56:57 IST" name="collectionHeading" finished-at="2024-06-16T19:57:02 IST" duration-ms="5236" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- collectionHeading -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:57:02 IST" name="beforeMethod" finished-at="2024-06-16T19:57:03 IST" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="selectProduct()[pri:2, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:57:03 IST" name="selectProduct" finished-at="2024-06-16T19:57:04 IST" depends-on-methods="com.ecommerce.dawnTheme.plpTest.collectionHeading" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProduct -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:57:04 IST" name="beforeMethod" finished-at="2024-06-16T19:57:05 IST" duration-ms="1013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="availabilityDropdownFunctionality()[pri:3, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:57:05 IST" name="availabilityDropdownFunctionality" finished-at="2024-06-16T19:57:22 IST" duration-ms="17006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- availabilityDropdownFunctionality -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:57:22 IST" name="beforeMethod" finished-at="2024-06-16T19:57:23 IST" duration-ms="1009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="colorDropdownFunctionality()[pri:4, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:57:23 IST" name="colorDropdownFunctionality" finished-at="2024-06-16T19:57:29 IST" duration-ms="6268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- colorDropdownFunctionality -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:57:29 IST" name="beforeMethod" finished-at="2024-06-16T19:57:30 IST" duration-ms="1004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="sortbyFunctionality()[pri:5, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:57:30 IST" name="sortbyFunctionality" finished-at="2024-06-16T19:57:34 IST" duration-ms="3699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortbyFunctionality -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:57:34 IST" name="beforeMethod" finished-at="2024-06-16T19:57:35 IST" duration-ms="1006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="priceFIlterFunctionality()[pri:6, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:57:35 IST" name="priceFIlterFunctionality" finished-at="2024-06-16T19:57:45 IST" duration-ms="10081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceFIlterFunctionality -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.ecommerce.dawnTheme.plpTest@5e600dd5]" started-at="2024-06-16T19:57:45 IST" name="afterClass" finished-at="2024-06-16T19:57:50 IST" duration-ms="5005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.ecommerce.dawnTheme.plpTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
